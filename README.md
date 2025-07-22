@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753168038/att.e0LqJvb3JobBOqmLVFmfwtKe9Jb_LJXYbUG0SWYL9jo_gntgtc.jpg" alt="CRAZYROOM Logo" width="200" height="200">
+  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1753174007/att.L_ddWRX3xcx1o7iZnNu1kFfBupBKuRaFkriy3OYB33k_vtbkfx.jpg" alt="CRAZYROOM Logo" width="200" height="200">
   
   # CRAZYROOM
   
