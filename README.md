@@ -6,7 +6,7 @@
   ### The Most Unhinged Terminal Experience on the Internet
   
   [![Follow on X](https://img.shields.io/badge/Follow-@crazyroom_-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/crazyroom_)
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://crazyroombonk.netlify.app)
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://crazyroom.fun)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crazyroomofficial/crazyroom)
   
 </div>
